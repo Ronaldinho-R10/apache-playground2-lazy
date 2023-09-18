@@ -40,6 +40,9 @@ ProxyPassReverse "/images/"  "balancer://myset/"
 
 ### Referências
 https://httpd.apache.org/docs/2.4/howto/reverse_proxy.html
+
 https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/
+
 https://httpd.apache.org/docs/2.4/mod/mod_lbmethod_byrequests.html
+
 https://ubiq.co/tech-blog/apache-load-balancer-configuration/
